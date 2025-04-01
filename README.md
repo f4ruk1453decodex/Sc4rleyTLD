@@ -26,9 +26,5 @@ pip install -r requirements.txt
 ```bash
 Arguments:
 
-    -t, --threads : Number of threads (default: 10)
-
-    -d, --domain : Target domain or TLD (required)
-
-    -o, --output : Save results to a file
+    -t, --tld : TLD (com,org etc.)
 ```
