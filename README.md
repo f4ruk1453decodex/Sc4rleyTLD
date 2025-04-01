@@ -15,10 +15,20 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SC4RLEY.git
+git clone https://github.com/f4ruk1453decodex/Sc4rleyTLD.git
 
 # Navigate into the project folder
-cd SC4RLEY
+cd Sc4rleyTLD
 
 # Install dependencies
 pip install -r requirements.txt
+```
+```bash
+Arguments:
+
+    -t, --threads : Number of threads (default: 10)
+
+    -d, --domain : Target domain or TLD (required)
+
+    -o, --output : Save results to a file
+```
