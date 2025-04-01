@@ -23,8 +23,9 @@ cd Sc4rleyTLD
 # Install dependencies
 pip install -r requirements.txt
 ```
+## 🚀 Usage
 ```bash
 Arguments:
 
-    -t, --tld : TLD (com,org etc.)
+    python sc4rley.py -t, --tld : TLD (com,org etc.)
 ```
