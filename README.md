@@ -29,6 +29,6 @@ Arguments:
 
     python sc4rley.py -t, --tld : TLD (com,org etc.)
 ```
-##🛡️ Disclaimer
+## 🛡️ Disclaimer
 
 This tool is intended for educational and research purposes only. The author is not responsible for any misuse.
